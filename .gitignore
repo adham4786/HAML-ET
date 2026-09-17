@@ -219,3 +219,6 @@ __marimo__/
 
 # Dataset folder
 /dataset/
+
+# For the mac users
+.DS_Store
