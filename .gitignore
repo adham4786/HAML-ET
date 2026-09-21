@@ -220,5 +220,8 @@ __marimo__/
 # Dataset folder
 /dataset/
 
+# Training logs
+/logs/
+
 # For the mac users
 .DS_Store
